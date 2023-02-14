@@ -1,0 +1,18 @@
+with O9yGenPackKlassen, Ada.Text_IO;
+
+use O9yGenPackKlassen, Ada.Text_IO;
+
+procedure O9YGenerischeKlassen is
+   
+   procedure Fliegen is
+   begin
+      Put_Line("Ich fliege!");
+   end Fliegen;
+   
+   Amsel : Lebewesen;
+   
+   procedure FliegenLassen is new 
+   
+begin
+   
+end O9YGenerischeKlassen;

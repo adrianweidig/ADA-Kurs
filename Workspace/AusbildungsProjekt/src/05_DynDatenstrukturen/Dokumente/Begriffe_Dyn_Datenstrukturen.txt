@@ -1,0 +1,14 @@
+type POSITIVE_REF is access POSITIVE range 1 .. 10;
+Z : POSITIVE_REF := new POSITIVE'(5);
+
+
+
+Begriffe
+Zugriffstyp:			POSITIVE_REF
+Zugriffsobjekt:			Z
+Zugriffswert:			die Referenz auf das dynamisch
+	 			erzeugte Objekt (Adresse)
+Zielobjekt:			das dynamisch erzeugte Objekt
+Zieluntertyp:			POSITIVE
+Zieltyp:			INTEGER
+Zieltypeinschränkung:		1 .. 10

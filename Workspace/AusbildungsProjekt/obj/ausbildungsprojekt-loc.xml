@@ -1,0 +1,505 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 76" line=" 165" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\schachfeldcontroller.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 54" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\03_GTK_Mit_Builder\g001erstesfenster.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 38" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\muelleimer\initwidgets.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 19" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\init_widgets.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 37" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\muelleimer\hiveobj.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 170" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 36" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\widgethandler.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 19" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\init_widgets.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 8" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\widgethandler.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 18" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\widgethandler.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 35" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\widgethandler.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\03_GTK_Mit_Builder\g002handlerundsignale.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 47" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\03_GTK_Mit_Builder\g002handlerundsignale.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 66" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\03_GTK_Mit_Builder\g002objekte.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 99" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\03_GTK_Mit_Builder\g002objekte.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 105" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\03_GTK_Mit_Builder\g002objekte.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 69" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\03_GTK_Mit_Builder\g002objekte.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 71" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\03_GTK_Mit_Builder\g002objekte.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 51" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\03_GTK_Mit_Builder\g002objekte.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 47" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\03_GTK_Mit_Builder\g002handlerundsignale.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 66" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\03_GTK_Mit_Builder\g002objekte.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 99" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\03_GTK_Mit_Builder\g002objekte.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 47" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\03_GTK_Mit_Builder\g002handlerundsignale.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 66" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\03_GTK_Mit_Builder\g002objekte.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 99" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\03_GTK_Mit_Builder\g002objekte.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 35" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\widgethandler.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 52" line=" 134" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\02_StrukturierteDatentypen\s12strings.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\schachfeldcontroller.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\init_widgets.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 19" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\init_widgets.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 8" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\widgethandler.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 18" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\widgethandler.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 62" line=" 32" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\widgethandler.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 15" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\schachfeldcontroller.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 152" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\schachfeldcontroller.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 101" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\02_StrukturierteDatentypen\s11arraytypen.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 48" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 80" line=" 53" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 52" line=" 71" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 52" line=" 179" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 57" line=" 147" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\01_Grundlagen\g52kontrollstrukturen_switch_case.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 57" line=" 147" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\schachmain.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 51" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\schachmain.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 9" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\init_widgets.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 24" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\init_widgets.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 19" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\init_widgets.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 8" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\widgethandler.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 18" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\widgethandler.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 57" line=" 147" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 20" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\02_StrukturierteDatentypen\s11arraytypen.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\02_StrukturierteDatentypen\s12strings.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 13" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\02_StrukturierteDatentypen\s11arraytypen.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\01_Grundlagen\g33typvertraeglichkeit.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\01_Grundlagen\g32untertypen.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 4" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\01_Grundlagen\g32untertypen.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 13" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\01_Grundlagen\g32untertypen.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 17" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\01_Grundlagen\g32untertypen.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\01_Grundlagen\g33typvertraeglichkeit.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 19" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\01_Grundlagen\g33typvertraeglichkeit.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\02_StrukturierteDatentypen\s11arraytypen.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 57" line=" 147" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\init_widgets.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 19" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\init_widgets.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 8" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\widgethandler.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 18" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\widgethandler.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 35" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\widgethandler.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\schachfeldcontroller.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\schachfeldcontroller.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\widgethandler.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\init_widgets.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\schachfeldcontroller.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 35" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\widgethandler.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\schachmain.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 51" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\schachmain.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 9" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\init_widgets.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 24" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\init_widgets.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 91" line=" 183" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\schachfeldcontroller.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\01_GTK_Ohne_Builder\g005canvas.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 222" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\01_GTK_Ohne_Builder\g005canvas.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 180" >
+      <vfs_project>D:\Entwicklung\GNAT\lib\gnat\gtkada.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\GNAT\include\gtkada\gtkada.static\gtkada\gtkada-canvas_view-views.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 574" >
+      <vfs_project>D:\Entwicklung\GNAT\lib\gnat\gtkada.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\GNAT\include\gtkada\gtkada.static\gtkada\gtkada-canvas_view-views.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 615" >
+      <vfs_project>D:\Entwicklung\GNAT\lib\gnat\gtkada.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\GNAT\include\gtkada\gtkada.static\gtkada\gtkada-canvas_view-views.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 789" >
+      <vfs_project>D:\Entwicklung\GNAT\lib\gnat\gtkada.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\GNAT\include\gtkada\gtkada.static\gtkada\gtkada-canvas_view.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 5048" >
+      <vfs_project>D:\Entwicklung\GNAT\lib\gnat\gtkada.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\GNAT\include\gtkada\gtkada.static\gtkada\gtkada-canvas_view.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 188" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\schachfeldcontroller.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\05_DynDatenstrukturen\02_DynamischeDatenstrukturen\dd2mainzweifachliste.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\05_DynDatenstrukturen\02_DynamischeDatenstrukturen\dd2zweifachverketteteliste.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 39" line=" 36" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\05_DynDatenstrukturen\02_DynamischeDatenstrukturen\dd2zweifachverketteteliste.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\init_widgets.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 69" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 70" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 188" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\schachfeldcontroller.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 49" line=" 134" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Controller\schachfeldcontroller.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 39" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 32" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 25" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\10_GTK\04_Testprogramme\Schach\Model\schachfelder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 1686" >
+      <vfs_project>D:\Entwicklung\GNAT\lib\gnat\gtkada.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\GNAT\include\gtkada\gtkada.static\gtkada\gtkada-canvas_view.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\01_Grundlagen\g6schleifen.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\05_DynDatenstrukturen\02_DynamischeDatenstrukturen\dd2mainzweifachliste.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\05_DynDatenstrukturen\02_DynamischeDatenstrukturen\dd2zweifachverketteteliste.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 14" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\05_DynDatenstrukturen\02_DynamischeDatenstrukturen\dd2zweifachverketteteliste.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\05_DynDatenstrukturen\02_DynamischeDatenstrukturen\dd2zweifachverketteteliste.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\05_DynDatenstrukturen\02_DynamischeDatenstrukturen\dd2mainzweifachliste.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 14" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\05_DynDatenstrukturen\02_DynamischeDatenstrukturen\dd2zweifachverketteteliste.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\05_DynDatenstrukturen\02_DynamischeDatenstrukturen\dd1mainliste.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\05_DynDatenstrukturen\02_DynamischeDatenstrukturen\dd2zweifachverketteteliste.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\05_DynDatenstrukturen\02_DynamischeDatenstrukturen\dd2zweifachverketteteliste.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 12" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\05_DynDatenstrukturen\02_DynamischeDatenstrukturen\dd2zweifachverketteteliste.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 13" line=" 89" >
+      <vfs_project>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr</vfs_project>
+      <vfs_file>D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\src\05_DynDatenstrukturen\02_DynamischeDatenstrukturen\dd2zweifachverketteteliste.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

@@ -1,0 +1,18 @@
+with Unchecked_Deallocation;
+
+procedure g2SubtypeEinschraenkung is
+   
+   generic 
+      type Gen_Type (<>) is private;
+   procedure Ausgabe;
+ 
+   procedure Ausgabe is
+   begin
+      
+   end Ausgabe;
+   
+   
+   
+begin
+   
+end g2SubtypeEinschraenkung;

@@ -1,0 +1,25 @@
+[GENERATED OBJECT FILE]
+b__g002binding.o
+[PROJECT FILES]
+D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\ausbildungsprojekt.gpr
+20211129065242 3c62bccc368f4334de78f496050c792f
+D:\Entwicklung\GNAT\lib\gnat\gtkada.gpr
+20211201092524 2b0ceaf08eca1d6dbce45dbad6d018bf
+[BOUND OBJECT FILES]
+D:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\obj\g002binding.o
+[GENERATED SOURCE FILES]
+b__g002binding.ads
+b__g002binding.adb
+b__g002binding.ali
+[RESULTING OPTIONS]
+-LD:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\obj\
+-LD:\Entwicklung\repos\AnwProgWeidig\ADA Lehrgang\Workspace\AusbildungsProjekt\obj\
+-LD:\Entwicklung\GNAT\lib\gtkada\gtkada.static\gtkada\
+-LD:/entwicklung/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+-shared-libgcc
+-shared-libgcc
+-shared-libgcc
+D:/entwicklung/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

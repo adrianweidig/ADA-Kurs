@@ -1,0 +1,5 @@
+Einfach Info Java YouTube - https://www.youtube.com/channel/UCy34m-bALeHIRHNLYI5nSvg
+
+Abstrakter Datentyp - https://de.wikipedia.org/wiki/Abstrakter_Datentyp (ADT)
+
+oop ada - https://www.ada-deutschland.de/sites/default/files/AdaTourCD/AdaTourCD2004/ada_dokumentation/objektorientierte_programmierung/8_1_a_allg_einfuehrung.html
